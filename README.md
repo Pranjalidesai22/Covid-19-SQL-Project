@@ -9,10 +9,10 @@ This project explores COVID-19 data using SQL, analyzing global trends, case gro
 
 Using SQL, I performed data exploration to analyze:
 
-Global COVID-19 Cases & Deaths 📊
-Mortality Rate Analysis ☠️
-Vaccination Trends & Coverage 💉
-Country-wise & Continent-wise Impact 🌍
+Global COVID-19 Cases & Deaths 
+Mortality Rate Analysis 
+Vaccination Trends & Coverage 
+Country-wise & Continent-wise Impact 
 
 **Tools & Technologies**
 
